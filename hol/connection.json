@@ -1,0 +1,8 @@
+{"account": "jc24514.uk-south.azure",
+    "user":"snowpark_andrew",
+    "password": "12345678",
+    "role": "accountadmin",
+    "warehouse": "HOL_WH",
+    "database": "HOL_DB",
+    "schema": "PUBLIC"
+}
